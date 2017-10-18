@@ -1,23 +1,47 @@
 # TRSA
 
+# Grupos
+
+## Navigation
+* Alexandre Dias
+* Marco Alb.
+* David
+* Emanuel
+* Pedro
+
+## Perception
+* Ricardo Torres
+* Ricardo Mota
+* Zé Pinto
+* João Fernandes
+* Beatriz
+
+## Storage/Planner
+* Rafael
+* Marco Correia
+* Ricardo Bel.
+* João Ramos
+* Guilherme
+
 # Navigation
-- Trajetória
-- Localização
-- Mapeamento
-- Deteção de Obstáculos
+
+* Trajetória
+* Localização
+* Mapeamento
+* Deteção de Obstáculos
 
 # Perception
-## Simbolos (2D)
-## Objetos (3D)
+* Simbolos (2D)
+* Objetos (3D)
 
 # Storage Supervisor
-## Inventário
-## Gestão de Tarefas
+* Inventário
+* Gestão de Tarefas
 
 # Produtos
-## Square
-## Triangle
-## Dot
+* Square
+* Triangle
+* Dot
 
 # ROS Service - Passos
 1.	Supervisor envia mapeamento para ‘/kelp/product_mapping’ 
@@ -30,3 +54,4 @@
 
 # Tópicos
 * ‘/kelp/product_mapping’
+
