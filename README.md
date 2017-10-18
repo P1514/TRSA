@@ -1,5 +1,7 @@
 # TRSA
 
+V 1.0
+
 # Grupos
 
 ## Navigation
@@ -22,6 +24,7 @@
 * Ricardo Bel.
 * João Ramos
 * Guilherme
+* Tiago Carrasqueira
 
 # Navigation
 
@@ -53,5 +56,15 @@
 7.	Supervisor cria o planeamento para o trabalhador
 
 # Tópicos
-* ‘/kelp/product_mapping’
+
+* '/planner/supervisor' , us
+
+* '/planner/navigation' , coordenadas (absolutas), direção (º)
+
+* '/planner/perception' , Ligar 3D, Ligar 2D 
+
+# Pedir
+* 'nav->planner' mapa, coordenadas (absolutas), direção (º)
+
+* 'perception->planner' Existe parteleira e qual o lado, Objetos que estão dentro da parteleira
 
